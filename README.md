@@ -41,12 +41,16 @@
 <br/>  
 
 
-## <div align="center"> My Stats</div>
+## <div align="center">My Stats</div>
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ks-77&theme=github_dark)
 
+</div>
 
 
-## Connect with me  
+
+## <div align="center">Connect with me</div>
 <div align="center">
 <a href="https://github.com/ks-77" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
