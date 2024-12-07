@@ -9,16 +9,24 @@
 ### <div align="center">ABOUT ME</div>  
   
 
-#### <div align="center">I am a beginner Python developer. I started my IT journey by studying html/css, javascript. Then I tried Python development and decided to switch to it completely. In my learning technique, I try not to scatter on everything at once, and I prefer to study things deeply. Although the number of interesting areas is off the charts, and many things are interesting, and I want to study them.</div>  
+#### <div align="center">I am a enthusiastic Python developer with a strong passion for coding and a deep interest in Python development. My journey in IT began with learning HTML/CSS and JavaScript, but later I ultimately decided to focus entirely on Python</div>
+#### <div align="center">I prioritize a focused approach to learning, delving deeply into subjects to build a comprehensive understanding. Currently, I am specializing in Django as my primary development framework and advancing my skills in working with databases, asynchronous programming, and RESTful application development.</div>  
+
+
+### <div align="center">Key Interests and Goals</div>
+- Advanced Frameworks and Tools: In-depth study of Django and its ecosystem to create scalable and maintainable backend solutions. Exploring complementary tools like DRF for API development and Celery for task scheduling.
   
 
-- 🔬 I'm currently learning Django in depth like a main development framework.  
+- Database Optimization: Focus on designing efficient database schemas, optimizing queries, and ensuring data integrity in SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis) systems.  
   
 
-- 📝 I'm also improving my knowledge in various databases, async programming, rest applications.  
-  
+- Asynchronous Architecture: Exploring Python async frameworks like FastAPI or Aiohttp for developing high-concurrency applications and WebSocket-based real-time features.
 
-- 🤖 For future i'd like to learn more about ML, and create a program based on interaction with AI.  
+
+- DevOps Integration: Gaining a basic understanding of containerization (Docker), CI/CD pipelines, and cloud platforms (AWS) to deploy and maintain backend applications effectively.
+
+
+- Security Best Practices: Learning to secure backend applications through authentication mechanisms (JWT, OAuth), data encryption, and protection against common vulnerabilities (SQL injection, CSRF, XSS). 
   
 
 <br/>  
